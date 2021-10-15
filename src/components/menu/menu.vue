@@ -30,7 +30,7 @@
             v-for="item in subm.items"
             class="item px-6 flex justify-between"
           >
-            <div class="mb-2">{{ item.name }}</div>
+            <div class="mb-4">{{ item.name }}</div>
             <div>{{ item.price }}</div>
           </div>
         </div>
@@ -70,6 +70,7 @@
       h2 {
         font-family: $font-ephesis;
         font-size: 4em;
+        color: $color-orange;
       }
 
       p {
