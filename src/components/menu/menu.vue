@@ -43,6 +43,7 @@
 .menu {
   min-height: 600px;
   background-color: $color-brown;
+  padding-bottom: 6rem;
 
   .menu-head {
     height: 320px;

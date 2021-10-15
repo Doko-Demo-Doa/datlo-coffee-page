@@ -5,9 +5,9 @@
     <p class="text-5xl">Tea & coffee</p>
 
     <div class="stamp mt-14 flex flex-col justify-center items-center">
-      <p>Đặt hàng ngay:</p>
-      <div>0979338496</div>
-      <div>0364291198</div>
+      <p>Ship tận nơi:</p>
+      <a href="tel:+0979338496">0979338496</a>
+      <a href="tel:+0364291198">0364291198</a>
     </div>
   </div>
 </template>
@@ -41,9 +41,11 @@ $stamp-size: 400px;
 
     p {
       font-size: 2em;
+      margin-bottom: 1.2rem;
+      font-family: $font-ephesis;
     }
 
-    > div {
+    > a {
       font-size: 2.6em;
     }
   }
