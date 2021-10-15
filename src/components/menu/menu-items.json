@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Coffee",
+    "items": [
+      {
+        "name": "Bạc xỉu",
+        "price": "20k"
+      },
+      {
+        "name": "Nâu đá",
+        "price": "20k"
+      },
+      {
+        "name": "Cacao cốt dừa",
+        "price": "2k"
+      },
+      {
+        "name": "Cà phê phin",
+        "price": "2k"
+      }
+    ]
+  },
+  {
+    "title": "Mojito & Soda",
+    "items": [
+      {
+        "name": "Soda cam chanh",
+        "price": "20k"
+      },
+      {
+        "name": "Soda dâu tây",
+        "price": "20k"
+      },
+      {
+        "name": "Soda táo",
+        "price": "2k"
+      },
+      {
+        "name": "Soda bạc hà",
+        "price": "2k"
+      },
+      {
+        "name": "Soda việt quất",
+        "price": "20k"
+      }
+    ]
+  },
+  {
+    "title": "Nước ép",
+    "subtitle": "(giá theo mùa)",
+    "items": [
+      {
+        "name": "Nước chanh tươi",
+        "price": "10k"
+      },
+      {
+        "name": "Ép cam nguyên chất",
+        "price": "20k"
+      },
+      {
+        "name": "Nước ép dưa",
+        "price": "20k"
+      },
+      {
+        "name": "Nước ép dừa",
+        "price": "20k"
+      },
+      {
+        "name": "Chanh leo",
+        "price": "15k"
+      },
+      {
+        "name": "Nước ép dứa cà rốt",
+        "price": "20k"
+      },
+      {
+        "name": "Cóc ép",
+        "price": "25k"
+      },
+      {
+        "name": "Ổi ép",
+        "price": "20k"
+      }
+    ]
+  },
+  {
+    "title": "Trà",
+    "items": [
+      {
+        "name": "Trà thạch truyền thống",
+        "price": "10k"
+      },
+      {
+        "name": "Quất nha đam",
+        "price": "15k"
+      },
+      {
+        "name": "Quất lắc sữa",
+        "price": "15k"
+      },
+      {
+        "name": "Trà tắc",
+        "price": "10k"
+      },
+      {
+        "name": "Trà chanh sả",
+        "price": "10k"
+      },
+      {
+        "name": "Trà đào cam sả",
+        "price": "25k"
+      },
+      {
+        "name": "Trà đào nóng/đá",
+        "price": "10k"
+      },
+      {
+        "name": "Trà bạc hà",
+        "price": "20k"
+      },
+      {
+        "name": "Trà dâu nóng/đá",
+        "price": "20k"
+      }
+    ]
+  },
+  {
+    "title": "Đồ ăn vặt",
+    "items": [
+      {
+        "name": "Heo khô cháy tỏi",
+        "price": "15k"
+      },
+      {
+        "name": "Khô gà lá chanh",
+        "price": "15k"
+      },
+      {
+        "name": "Hướng dương ngọt",
+        "price": "15k"
+      },
+      {
+        "name": "Hướng dương thường",
+        "price": "10k"
+      },
+      {
+        "name": "Hạt bí",
+        "price": "15k"
+      }
+    ]
+  },
+  {
+    "title": "Topping",
+    "items": [
+      {
+        "name": "Nha đam",
+        "price": "5k"
+      },
+      {
+        "name": "Thạch con cá",
+        "price": "5k"
+      },
+      {
+        "name": "Trân châu trắng",
+        "price": "5k"
+      }
+    ]
+  },
+  {
+    "title": "Đá xay",
+    "items": [
+      {
+        "name": "Matcha",
+        "price": "30k"
+      },
+      {
+        "name": "Cookies",
+        "price": "30k"
+      }
+    ]
+  }
+]

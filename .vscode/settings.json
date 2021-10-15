@@ -1,0 +1,14 @@
+{
+  "editor.defaultFormatter": "johnsoncodehk.volar",
+  "editor.formatOnSave": true,
+  "explorer.copyRelativePathSeparator": "/",
+  "[javascript]": {
+    "editor.defaultFormatter": "johnsoncodehk.volar"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+}
