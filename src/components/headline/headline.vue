@@ -13,7 +13,7 @@
 </template>
 
 <style lang="scss" scoped>
-$stamp-size: 400px;
+$stamp-size: 100%;
 
 .headline {
   height: 700px;
@@ -37,6 +37,7 @@ $stamp-size: 400px;
   .stamp {
     width: $stamp-size;
     height: $stamp-size;
+    background-position: center;
     background-repeat: no-repeat;
     background-image: url("../../assets/circle.svg");
 

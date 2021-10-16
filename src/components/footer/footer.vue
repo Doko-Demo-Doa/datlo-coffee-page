@@ -12,9 +12,9 @@
     </div>
 
     <div class="contact mt-12 flex flex-col justify-center items-center">
-      <h1 class="mb-4 text-6xl">Đặt ngay:</h1>
-      <a class="mb-2 text-4xl" href="tel:+0979338496">0979338496</a>
-      <a class="text-4xl" href="tel:+0364291198">0364291198</a>
+      <h1 class="mb-1 md:mb-2 text-3xl md:text-6xl">Đặt ngay:</h1>
+      <a class="text-2xl md:text-4xl" href="tel:+0979338496">0979338496</a>
+      <a class="text-2xl md:text-4xl" href="tel:+0364291198">0364291198</a>
     </div>
   </div>
 </template>

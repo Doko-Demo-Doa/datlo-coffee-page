@@ -28,9 +28,9 @@
           </div>
           <div
             v-for="item in subm.items"
-            class="item px-6 flex justify-between"
+            class="item px-4 flex justify-between"
           >
-            <div class="mb-4">{{ item.name }}</div>
+            <div class="mb-4 text-left">{{ item.name }}</div>
             <div>{{ item.price }}</div>
           </div>
         </div>
