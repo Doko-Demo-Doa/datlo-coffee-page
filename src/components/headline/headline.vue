@@ -19,9 +19,10 @@ $stamp-size: 400px;
   height: 700px;
   width: 100%;
   color: white;
+  background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("../../assets/hero.jpg");
+  background-image: url("../../assets/hero3.jpg");
 
   .title {
     color: white;
