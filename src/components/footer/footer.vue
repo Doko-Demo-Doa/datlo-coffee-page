@@ -4,7 +4,7 @@
       <GoogleMap
         :api-key="apiKey as string"
         style="width: 100%; height: 500px"
-        :center="center"
+        :center="center as any"
         :zoom="15"
       >
         <Marker :options="{ position: center }" />

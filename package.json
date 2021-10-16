@@ -8,7 +8,6 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@fawmi/vue-google-maps": "0.9.4",
     "@googlemaps/js-api-loader": "1.12.6",
     "autoprefixer": "10.3.7",
     "postcss": "8.3.9",
@@ -21,6 +20,7 @@
   "devDependencies": {
     "@babel/core": "7.15.8",
     "@babel/eslint-parser": "7.15.8",
+    "@types/google.maps": "3.45.6",
     "@vitejs/plugin-vue": "1.9.3",
     "@vue/eslint-config-typescript": "8.0.0",
     "eslint": "8.0.1",
