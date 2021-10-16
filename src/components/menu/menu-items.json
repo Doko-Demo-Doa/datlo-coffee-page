@@ -8,15 +8,19 @@
       },
       {
         "name": "Nâu đá",
-        "price": "20k"
+        "price": "15k"
       },
       {
         "name": "Cacao cốt dừa",
-        "price": "2k"
+        "price": "25k"
+      },
+      {
+        "name": "Cacao nóng/đá",
+        "price": "20k"
       },
       {
         "name": "Cà phê phin",
-        "price": "2k"
+        "price": "20k"
       }
     ]
   },
@@ -33,11 +37,11 @@
       },
       {
         "name": "Soda táo",
-        "price": "2k"
+        "price": "20k"
       },
       {
         "name": "Soda bạc hà",
-        "price": "2k"
+        "price": "20k"
       },
       {
         "name": "Soda việt quất",
